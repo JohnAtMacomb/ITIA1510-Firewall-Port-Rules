@@ -12,8 +12,8 @@ numbered TODOs in order. No lists and no dictionaries.
 1. On this repository's GitHub page, click **Use this template**, then
    **Create a new repository**.
 2. Set **Owner** to your own account and name the repository
-   `ITIA1510-Firewall-Port-Rules`. Leave **Include all branches** unticked.
-   Choose **Public**, then click **Create repository**.
+   `ITIA1510-Firewall-Port-Rules`. Choose **Public**, then click
+   **Create repository**.
 3. Clone your new repository, not this one:
 
    ```
@@ -22,6 +22,9 @@ numbered TODOs in order. No lists and no dictionaries.
    ```
 
 ## Do the work on a branch
+
+Do all of the git work with git commands from the command line. Do not edit,
+upload or merge files in the GitHub web interface.
 
 4. Create the branch before you change anything:
 
@@ -46,9 +49,9 @@ numbered TODOs in order. No lists and no dictionaries.
 ## Demonstrate, then merge
 
 7. **Demonstrate the program to your instructor** from the branch you just
-   pushed. Run it, show the branch name, and be ready to explain any function.
-   The demonstration is required: it is worth half the grade, and an
-   assignment that is never demonstrated earns no points.
+   pushed, using the debugger in VS Code. The demonstration is required: it is
+   worth half the grade, and an assignment that is never demonstrated earns no
+   points.
 8. After the demonstration, merge into main and push:
 
    ```
